@@ -114,7 +114,7 @@ All data was fetched using the **yfinance** Python library, which pulls from Yah
 
 ---
 
-## 🚀 Getting Started
+## 🏁 Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -129,7 +129,7 @@ pip install -r requirements.txt
 
 ### 3. Run the dashboard
 ```bash
-python dashboard.py
+streamlit run dashboard.py
 ```
 
 ---
@@ -166,7 +166,7 @@ financial-dashboard/
 **Ibrahim Alsaeed**  
 [GitHub](https://github.com/brhosul02)
 
-[Linkedin](www.linkedin.com/in/ibrahim-alsaeed)
+[Linkedin](https://www.linkedin.com/in/ibrahim-alsaeed)
 
 ---
 
