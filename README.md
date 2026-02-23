@@ -10,6 +10,14 @@ An interactive financial dashboard built with **Python**, **Plotly**, and **yfin
 
 ---
 
+## 🚀 Live Demo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://financial-dashboard-n3pz9keepeijy9txbjws9p.streamlit.app/)
+
+👆 Click the badge to open the live dashboard
+
+---
+
 ## 📸 Screenshots
 
 | View | Preview |
@@ -57,6 +65,7 @@ An interactive financial dashboard built with **Python**, **Plotly**, and **yfin
 | `yfinance` | Fetch historical stock & financial data |
 | `Pandas` | Data manipulation and transformation |
 | `Plotly` | Interactive charts and visualizations |
+| `Streamlit` | Web app framework for the dashboard UI |
 | `Jupyter Notebook` | Exploratory analysis |
 
 ---
@@ -94,8 +103,8 @@ financial-dashboard/
 │   ├── stock_data_raw.csv    # Raw data fetched from yfinance
 │   └── stock_data_clean.csv  # Cleaned and processed data
 │
-├── notebooks/
-│   └── exploratory_analysis.ipynb
+├── data_preprocessing.ipynb
+│
 │
 └── screenshots/
     ├── full.png
@@ -112,6 +121,7 @@ financial-dashboard/
 
 **Ibrahim Alsaeed**  
 [GitHub](https://github.com/brhosul02)
+[Linkedin](www.linkedin.com/in/ibrahim-alsaeed)
 
 ---
 
